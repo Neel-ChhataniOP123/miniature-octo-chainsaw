@@ -1,0 +1,16 @@
+body{
+    color: greenyellow;
+    background-color: blueviolet;
+    }
+    .heading{
+    width:80%;
+    font-size:22px;
+    }
+    .name_of_objects,#result_name,#result_confidence{
+    color:cyan;    
+    }
+    #camera{
+    border: darkgoldenrod double 3px;
+    width: 350px;
+    height: 300px;
+    }
